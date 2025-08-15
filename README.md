@@ -16,15 +16,7 @@ Each project is self-contained in its own folder with code, documentation, and r
 
 ---
 
-### 2. 🌼 Iris Flower Classification
-- **Model**: K-Nearest Neighbors
-- **Dataset**: UCI Iris Dataset
-- **Highlights**: Data visualization, normalization, model evaluation
-- [View Project](./iris-knn/README.md)
-
----
-
-### 3. 📈 Linear Regression on Housing Prices
+### 2. 📈 Linear Regression on Housing Prices
 - **Model**: Linear Regression
 - **Dataset**: California Housing Dataset
 - **Highlights**: Exploratory data analysis, RMSE, feature scaling
@@ -32,7 +24,7 @@ Each project is self-contained in its own folder with code, documentation, and r
 
 ---
 
-### 4. ✉️ Spam Email Classifier
+### 3. ✉️ Spam Email Classifier
 - **Model**: Logistic Regression
 - **Dataset**: SpamAssassin Corpus
 - **Highlights**: Text preprocessing, TF-IDF vectorization
@@ -40,19 +32,11 @@ Each project is self-contained in its own folder with code, documentation, and r
 
 ---
 
-### 5. 🧬 Customer Segmentation with K-Means
+### 4. 🧬 Customer Segmentation with K-Means
 - **Model**: K-Means Clustering
 - **Dataset**: Mall Customer Dataset
 - **Highlights**: Clustering, elbow method, silhouette score
 - [View Project](./customer-segmentation/README.md)
-
----
-
-### 6. 🧠 Deep Learning: Fashion Image Classifier
-- **Model**: CNN (TensorFlow/Keras)
-- **Dataset**: Fashion MNIST
-- **Highlights**: ConvNets, dropout, batch normalization
-- [View Project](./fashion-mnist-cnn/README.md)
 
 ---
 
