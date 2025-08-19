@@ -32,6 +32,11 @@ Each project is self-contained in its own folder with code, documentation, and r
 
 ---
 
+## 4. Iris Claqssification with KNearestNeighbors
+- **Model** K-Nearest Neighbors
+- **Dataset** sklearn Iris dataset
+- **Highlights**: Classifier implementing the k-nearest neighbors vote.
+
 ## 🛠️ Technologies Used
 - Python, NumPy, pandas, scikit-learn
 - TensorFlow / Keras
