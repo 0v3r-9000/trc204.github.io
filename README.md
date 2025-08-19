@@ -12,7 +12,7 @@ Each project is self-contained in its own folder with code, documentation, and r
 - **Model**: Random Forest Classifier
 - **Dataset**: Kaggle Loan Prediction Dataset
 - **Highlights**: Feature engineering, handling missing data, model tuning
-- [View Project](./loan_approval/README.md)
+- [View Project](./loan_approval)
 
 ---
 
@@ -20,15 +20,15 @@ Each project is self-contained in its own folder with code, documentation, and r
 - **Model**: Logistic Regression
 - **Dataset**: SpamAssassin Corpus
 - **Highlights**: Text preprocessing, TF-IDF vectorization
-- [View Project](./SpamDetect/README.md)
+- [View Project](./SpamDetect)
 
 ---
 
-### 4. 🧬 Customer Segmentation with K-Means
+### 3. 🧬 Customer Segmentation with K-Means
 - **Model**: K-Means Clustering
 - **Dataset**: Mall Customer Dataset
 - **Highlights**: Clustering, elbow method, silhouette score
-- [View Project](./customer_segment/README.md)
+- [View Project](./customer_segment)
 
 ---
 
