@@ -12,23 +12,15 @@ Each project is self-contained in its own folder with code, documentation, and r
 - **Model**: Random Forest Classifier
 - **Dataset**: Kaggle Loan Prediction Dataset
 - **Highlights**: Feature engineering, handling missing data, model tuning
-- [View Project](./loan-approval-prediction/README.md)
+- [View Project](./loan_approval/README.md)
 
 ---
 
-### 2. 📈 Linear Regression on Housing Prices
-- **Model**: Linear Regression
-- **Dataset**: California Housing Dataset
-- **Highlights**: Exploratory data analysis, RMSE, feature scaling
-- [View Project](./linear-regression-housing/README.md)
-
----
-
-### 3. ✉️ Spam Email Classifier
+### 2. ✉️ Spam Email Classifier
 - **Model**: Logistic Regression
 - **Dataset**: SpamAssassin Corpus
 - **Highlights**: Text preprocessing, TF-IDF vectorization
-- [View Project](./spam-classifier/README.md)
+- [View Project](./SpamDetect/README.md)
 
 ---
 
@@ -36,7 +28,7 @@ Each project is self-contained in its own folder with code, documentation, and r
 - **Model**: K-Means Clustering
 - **Dataset**: Mall Customer Dataset
 - **Highlights**: Clustering, elbow method, silhouette score
-- [View Project](./customer-segmentation/README.md)
+- [View Project](./customer_segment/README.md)
 
 ---
 
