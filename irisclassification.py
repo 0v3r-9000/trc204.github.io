@@ -1,8 +1,9 @@
 from sklearn.datasets import load_iris
-
-df = load_iris(as_frame=True).frame
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.model_selection import train_test_split
+
+df = load_iris(as_frame=True).frame
+
 X = df.drop(columns='target')
 y = df['target']
 
