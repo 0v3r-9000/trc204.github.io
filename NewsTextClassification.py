@@ -54,3 +54,16 @@ y_pred = pipeline.predict(X_test)
 print(classification_report(y_test, y_pred, target_names=newsgroups.target_names))
 print(confusion_matrix(y_test, y_pred))
 print(accuracy_score(y_test, y_pred))
+
+----------------------------------------
+
+# Example new text to classify
+new_text = ["Gun politics in the United States is a deeply divisive issue, with significant partisan and demographic divides on issues like gun control and the role of firearms in society. Generally, Republicans tend to favor gun rights and ownership, while Democrats lean towards stricter gun control measures."]
+
+# Use the trained pipeline to predict the categories of the new text
+predictions = pipeline.predict(new_text)
+
+# Print the predicted categories
+for text, category_index in zip(new_text, predictions):
+    predicted_category = newsgroups.target_names[category_index]
+    print(f"Text: '{text}'\nPredicted Category: {predicted_category}\n")
